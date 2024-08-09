@@ -5,7 +5,7 @@ test('suma de 2 + 3 es 5', () => {
 });
 
 test('resta de 5 - 2 es 3', () => {
-    expect(calculadora(5, 2, '-')).toBe(4);
+    expect(calculadora(5, 2, '-')).toBe(3);
 });
 
 test('multiplicación de 3 * 4 es 12', () => {
