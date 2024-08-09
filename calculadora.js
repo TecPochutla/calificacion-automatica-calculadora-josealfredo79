@@ -12,7 +12,7 @@ function calculadora(a, b, operador) {
             }
             return a / b;
         default:
-            return "Error en el Operador no válido";
+            return "Error: Operador no válido";
     }
 }
 
